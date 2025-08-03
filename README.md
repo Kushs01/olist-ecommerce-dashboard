@@ -25,10 +25,10 @@ An interactive Power BI dashboard analyzing over 100,000 Brazilian e-commerce or
 ## Project Structure
 
 olist-ecommerce-dashboard/
-├── dashboard/
-│ └── Olist_Ecommerce_Dashboard_Kushagra.pbix
-├── screenshots/
-│ └── dashboard_view.png
+├── Olist_Ecommerce_Dashboard_Kushagra.pbix
+│ 
+├── Olist_Dashboard.png
+│ 
 └── README.md
 
 ---
